@@ -1,1 +1,38 @@
-
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ro.costi.analist",
+      "sha256_cert_fingerprints": [
+        "6C:05:09:5C:DA:C3:66:8D:33:66:4A:59:F1:D7:BA:49:2A:66:F5:2D:88:F4:58:4C:00:AD:25:72:9A:E9:9D:60"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ro.costi.nivelo",
+      "sha256_cert_fingerprints": [
+        "6C:05:09:5C:DA:C3:66:8D:33:66:4A:59:F1:D7:BA:49:2A:66:F5:2D:88:F4:58:4C:00:AD:25:72:9A:E9:9D:60"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ro.costi.atelier",
+      "sha256_cert_fingerprints": [
+        "6C:05:09:5C:DA:C3:66:8D:33:66:4A:59:F1:D7:BA:49:2A:66:F5:2D:88:F4:58:4C:00:AD:25:72:9A:E9:9D:60"
+      ]
+    }
+  }
+]
